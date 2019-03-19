@@ -1,0 +1,14 @@
+<dependency>	
+<groupId>my</groupId>	
+<artifactId>Dom4j-1.6.1</artifactId>	
+<version>0.0.0</version>	
+<scope>system</scope>	
+<systemPath>${base.dir}/src/main/webapp/WEB-INF/lib/Dom4j-1.6.1.jar</systemPath>	
+</dependency>	
+<dependency>	
+<groupId>my</groupId>	
+<artifactId>framework3.0</artifactId>	
+<version>0.0.0</version>	
+<scope>system</scope>	
+<systemPath>${base.dir}/src/main/webapp/WEB-INF/lib/framework3.0.jar</systemPath>	
+</dependency>	

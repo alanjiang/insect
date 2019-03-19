@@ -1,0 +1,3 @@
+file:/Users/zhangxiao/Desktop/python/samples/A.jsp,rows=2,repeat key=x3='c3',times=3	
+file:/Users/zhangxiao/Desktop/python/samples/A.jsp,rows=3,repeat key=abc="124",times=2	
+file:/Users/zhangxiao/Desktop/python/samples/A.jsp,rows=3,repeat key=xy="gt",times=2	
