@@ -1,3 +1,4 @@
+file:/Users/zhangxiao/Desktop/python/samples/abc/B.jsp,repeat key:xbc="123",times=2	
 file:/Users/zhangxiao/Desktop/python/samples/A.jsp,repeat key:x3='c3',times=3	
 file:/Users/zhangxiao/Desktop/python/samples/A.jsp,repeat key:abc="124",times=2	
 file:/Users/zhangxiao/Desktop/python/samples/A.jsp,repeat key:xy="gt",times=2	
